@@ -17,5 +17,35 @@ Key Skills & Expertise:
 • Cloud Analytics & Data Warehousing
 I enjoy solving business problems using data and building scalable analytics solutions.
 
-My CV in pdf.
+My CV in [pdf](https://github.com/PritiT29/Priti-Taparia-Data-Analyst-Portfolio/blob/fd121aee511732ed6d980f6f56f98bfb39ba99ec/PRITI_TAPARIA%20(1)%20(1).pdf).
+
+Portfolio Projects:
+• Cyclistic Data Analysis (BigQuery, SQL, Tableau) [https://github.com/PritiT29/Cyclistic-Bike-Share-Analysis]
+- Performed data cleaning, transformation, and aggregation on large datasets
+- Built dashboards to analyze rider behavior and trends
+ 
+• Bank Customer Complaints Analysis (Tableau, SQL) [https://github.com/PritiT29/Bank-Customer-Complaint-Analysis]
+- Identified complaint patterns and built KPI dashboards with geospatial insights
+  
+• HR Analytics Dashboard (Tableau, Excel)[https://github.com/PritiT29/HR-Analytics]
+- Analyzed attrition, employee performance, and workforce trends
+  
+• SQL Analytics Project (Oracle)[https://github.com/PritiT29/SQL]
+- Developed complex SQL queries (CTEs, joins) to analyze salary distributions
+  
+• Bike Rental Data Analysis (Excel)
+- Used pivot tables and charts to derive actionable insights
+
+Certifications:
+
+• PL-300: Microsoft Power BI Data Analyst — Microsoft (2026)
+
+• Google Advanced Data Analytics Professional Certificate (2025)
+
+• Google Data Analytics Professional Certificate
+
+• Google Business Intelligence Certificate
+
+• IBM Python for Data Science
+
 
